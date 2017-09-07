@@ -1,2 +1,2 @@
 # reposync_mirror
-It will not work after pulling
+It will not work after downloading
