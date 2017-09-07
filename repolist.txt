@@ -1,0 +1,6 @@
+centos7-os
+centos7-updates
+docker-main
+rhel-6-webtatic
+rpmforge7
+zabbix7
